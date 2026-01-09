@@ -27,3 +27,6 @@ applications.xlsx
 
 # Gmail / OAuth temp
 *.pickle
+
+# vs fiiles
+.vs/
