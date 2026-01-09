@@ -1,0 +1,25 @@
+﻿{
+  "code": "DE",
+  "name": "Deutsch",
+
+  "salutation": {
+    "male": "Sehr geehrter Herr {{last_name}},",
+    "female": "Sehr geehrte Frau {{last_name}},",
+    "none": "Sehr geehrte Damen und Herren,"
+  },
+
+  "application_sentence": {
+    "formal": {
+      "before": "Bewerbung als",
+      "after": ""
+    },
+    "email": {
+      "before": "Bewerbung per E-Mail für",
+      "after": ""
+    }
+  },
+
+  "closing": "Mit freundlichen Grüßen",
+  "signature_head": "",
+  "date_format": "%d.%m.%Y"
+}

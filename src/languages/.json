@@ -1,0 +1,18 @@
+{
+  "code": "",
+  "name": "",
+  "salutation": {
+    "male": "",
+    "female": "",
+    "none": ""
+  },
+  "application_sentence": {
+    "formal": {
+      "before": "",
+      "after": ""
+    }
+  },
+  "closing": "",
+  "signature_head": "",
+  "date_format": ""
+}
