@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Credentials (VERY IMPORTANT)
+credentials/credentials.json
+credentials/token.json
+
+# Logs
+*.log
+data/logs/
+
+# Generated output
+data/data_output/
+applications.xlsx
+
+# Gmail / OAuth temp
+*.pickle
