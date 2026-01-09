@@ -56,15 +56,58 @@ OAuth 2.0 – secure Gmail authentication
 
 📂 Project Structure
 JobApplication/
+│   .gitignore
+│   README.md
+│   requirements.txt
 │
-├── page.html                  # Sample job ad HTML
-├── main.py                    # Main automation script
-├── gmail_auth.py              # Gmail OAuth authentication
-├── anschreibungV1.py          # Cover letter generator
-├── credentials.json           # Google OAuth credentials (ignored)
-├── token.json                 # OAuth token (auto-generated)
-├── applications.xlsx          # Application tracking file
-└── README.md
+├───data
+│   ├───data_input
+│   ├───data_output
+│   └───logs
+└───src
+    │    main.py
+    │
+    ├───config
+    │       constants.py
+    │       default_settings.json
+    │       __init__.py
+    │
+    ├───core
+    │       language.py
+    │       parser.py
+    │       scraper.py
+    │       validator.py
+    │       workflow.py
+    │       __init__.py
+    │
+    ├───generators
+    │   │   cover_letter.py
+    │   │   __init__.py
+    │   │
+    │   └───templates
+    │           de.md
+    │           en.md
+    │
+    ├───gui
+    │       __init__.py
+    │
+    ├───models
+    │       company.py
+    │       contact_person.py
+    │       job_posting.py
+    │       __init__.py
+    │
+    ├───services
+    │       auth_service.py
+    │       excel_service.py
+    │       gmail_service.py
+    │       __init__.py
+    │
+    └───utils
+            date_utils.py
+            file_utils.py
+            text_utils.py
+            __init__.py
 
 🔐 Gmail Authentication
 
