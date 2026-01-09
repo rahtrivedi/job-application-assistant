@@ -10,7 +10,7 @@ This project is designed for engineers, developers, and professionals who apply 
 
 Extracts key information from job ads (title, company, location, reference number, contact person, email)
 
-Supports structured HTML job portals (e.g. Arbeitsagentur)
+Supports structured HTML job portals
 
 ✍️ Cover Letter Generation
 
