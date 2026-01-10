@@ -1,0 +1,35 @@
+{
+  "en": {
+    "id": "en",
+    "name": "English",
+    "attributes": {
+      "salutation": {
+        "male": "Dear Mr.",
+        "female": "Dear Ms.",
+        "none": "Dear Sir or Madam"
+      },
+      "application_sentence": {
+        "before": "I have seen your advertisement on {website} for the position of {job_title} and would like to apply.",
+        "after": ""
+      },
+      "signature_head": "Best regards"
+    }
+  },
+
+  "de": {
+    "id": "de",
+    "name": "Deutsch",
+    "attributes": {
+      "salutation": {
+        "male": "Sehr geehrter Herr",
+        "female": "Sehr geehrte Frau",
+        "none": "Sehr geehrte Damen und Herren"
+      },
+      "application_sentence": {
+        "before": "Ich habe Ihre Anzeige über {website} für die Stelle {job_title} gelesen und möchte mich bewerben.",
+        "after": ""
+      },
+      "signature_head": "Mit freundlichen Grüßen"
+    }
+  }
+}

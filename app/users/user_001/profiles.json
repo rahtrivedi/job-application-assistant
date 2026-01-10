@@ -1,0 +1,51 @@
+{
+	"cad": {
+		"EN": {
+			"name": "Cad",
+			"Exprience": "Cad has over 10 years of experience in full-stack development, specializing in JavaScript frameworks and cloud technologies.",
+			"Motivation": "Cad is passionate about building scalable web applications and contributing to open-source projects."
+
+
+		},
+		"DE": {
+			"name": "Cad",
+			"Exprience": "Cad hat über 10 Jahre Erfahrung in der Full-Stack-Entwicklung, spezialisiert auf JavaScript-Frameworks und Cloud-Technologien.",
+			"Motivation": "Cad ist leidenschaftlich daran interessiert, skalierbare Webanwendungen zu erstellen und zu Open-Source-Projekten beizutragen."
+
+		}
+	},
+	"programer": {
+		"EN": {
+			"name": "Programer",
+			"Exprience": "Programer has a strong background in software engineering with expertise in Python and machine learning.",
+			"Motivation": "Programer enjoys solving complex problems and developing innovative solutions using cutting-edge technologies."
+		},
+		"DE": {
+			"name": "Programer",
+			"Exprience": "Programer hat einen starken Hintergrund in der Softwareentwicklung mit Fachkenntnissen in Python und maschinellem Lernen.",
+			"Motivation": "Programer liebt es, komplexe Probleme zu lösen und innovative Lösungen mit modernsten Technologien zu entwickeln."
+		},
+	"CAS modeler": {
+		"EN": {
+			"name": "CAS modeler",
+			"Exprience": "CAS modeler specializes in computational modeling and simulation, with a focus on complex adaptive systems.",
+			"Motivation": "CAS modeler is driven by the desire to understand and predict the behavior of complex systems through advanced modeling techniques."
+		},
+		"DE": {
+			"name": "CAS modeler",
+			"Exprience": "CAS modeler spezialisiert sich auf computergestützte Modellierung und Simulation mit Schwerpunkt auf komplexen adaptiven Systemen.",
+			"Motivation": "CAS modeler wird von dem Wunsch angetrieben, das Verhalten komplexer Systeme durch fortschrittliche Modellierungstechniken zu verstehen und vorherzusagen."
+		},
+	"Class A Modeler": {
+		"EN": {
+			"name": "Class A Modeler",
+			"Exprience": "Class A Modeler has extensive experience in 3D modeling and design, particularly in the automotive and aerospace industries.",
+			"Motivation": "Class A Modeler is passionate about creating high-quality, precise models that meet industry standards and client specifications."
+		},
+		"DE": {
+			"name": "Strker",
+			"Exprience": "Class A Modeler verfügt über umfangreiche Erfahrung in der 3D-Modellierung und im Design, insbesondere in der Automobil- und Luftfahrtindustrie.",
+			"Motivation": "Class A Modeler ist leidenschaftlich daran interessiert, hochwertige, präzise Modelle zu erstellen, die den Industriestandards und Kundenspezifikationen entsprechen."
+		}
+	}
+}

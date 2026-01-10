@@ -1,0 +1,15 @@
+{
+	"company": {
+		"company_name": "Siemens AG",
+		"company_address": "Werner-von-Siemens-Straße 1, 80333 München, Germany",
+		"website": "https://www.siemens.com",
+		"job_title": "Senior CAD Engineer",
+		"source": "linkedin"
+	},
+
+	"meta": {
+		"language": "DE",
+		"profile_id": "cad",
+		"date": "2026-01-10"
+	}
+}
