@@ -30,3 +30,6 @@ applications.xlsx
 
 # vs fiiles
 .vs/
+
+# test folddr
+.test/
